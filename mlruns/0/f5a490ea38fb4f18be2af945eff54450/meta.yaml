@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/caiomarchiorato/Desktop/repositorios/ml_produtividade_models/mlruns/0/f5a490ea38fb4f18be2af945eff54450/artifacts
+end_time: 1717781750018
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5a490ea38fb4f18be2af945eff54450
+run_name: estimativa_produtividade_07-06-2024_rf_s
+run_uuid: f5a490ea38fb4f18be2af945eff54450
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717781652765
+status: 3
+tags: []
+user_id: caiomarchiorato
